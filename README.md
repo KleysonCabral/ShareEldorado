@@ -1,2 +1,2 @@
 # ShareEldorado
-Local para práticas e projetos
+Práticas e projetos.
