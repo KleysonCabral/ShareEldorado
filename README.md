@@ -1,20 +1,15 @@
 # ShareEldorado
 Práticas e projetos.
 
-# Prática Git
+## Prática Git
 <br>
-Criação de Branch com configurações da Prática
-<br>
-## 
-<br>
-# Prática HTML
-<br>
-##Criação de Tela simples de Login
-<br>
+Criação de Branch com configurações da Prática.
+
+## Prática HTML
+
+### - Criação de Tela simples de Login
 ![Login](https://user-images.githubusercontent.com/22160651/162998162-cd04005f-29d4-43e9-ae42-b1a4d6e84f07.png)
 <br>
-##Criação de Página simples de DashBoard
 <br>
-![DashBoard](https://user-images.githubusercontent.com/22160651/162998384-36c8b019-1e17-4ed7-874e-1da761f9c1b5.png)
-<br>
-
+### - Criação de Página simples de DashBoard
+![dashBoard](https://user-images.githubusercontent.com/22160651/163001020-d5eca11c-1df4-45dc-840b-2a4e4465f186.png)
