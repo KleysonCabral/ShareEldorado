@@ -1,4 +1,4 @@
-# ShareEldorado
+# Curso Eldorado em parceria com ShareEldorado 
 Práticas e projetos.
 
 ## Prática Git
